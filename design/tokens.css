@@ -1,0 +1,20 @@
+/* Evinci · 个人视觉体系 */
+:root {
+  --ev-coffee: #6B4A3A;
+  --ev-caramel: #A9714B;
+  --ev-milk-tea: #D8BFA6;
+  --ev-haze-blue: #8FA3BF;
+  --ev-ink-black: #1A1A1E;
+  --ev-rice-white: #FBF8F3;
+  --ev-butter-yellow: #F6D77A;
+  --ev-mint: #A8DCCB;
+  --ev-mist-lavender: #D9D3E6;
+
+  --ev-color-brand: var(--ev-coffee);
+  --ev-color-brand-light: var(--ev-milk-tea);
+  --ev-color-background: var(--ev-rice-white);
+  --ev-color-text: var(--ev-ink-black);
+  --ev-color-heading: var(--ev-coffee);
+  --ev-color-support: var(--ev-haze-blue);
+  --ev-font-body: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+}

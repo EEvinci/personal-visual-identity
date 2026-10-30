@@ -1,0 +1,18 @@
+{
+  "name": "Evinci · 个人视觉体系",
+  "primary": {
+    "coffee": "#6B4A3A",
+    "caramel": "#A9714B",
+    "milkTea": "#D8BFA6"
+  },
+  "support": {
+    "hazeBlue": "#8FA3BF",
+    "inkBlack": "#1A1A1E",
+    "riceWhite": "#FBF8F3"
+  },
+  "accents": {
+    "butterYellow": "#F6D77A",
+    "mint": "#A8DCCB",
+    "mistLavender": "#D9D3E6"
+  }
+}
